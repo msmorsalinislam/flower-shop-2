@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0rem;
+    border: 0;
+}
+
+
+
+#first-dib1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: url('./Rectangle\ 9.png');
+    height: 60vh;
+    flex-direction: column;
+
+}
+
+#section1 {
+    height: 100vh;
+    background-color: rgb(249, 200, 209);
+
+
+}
+
+.forst {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+
+}
+
+
+.forest {
+
+    text-align: center;
+    width: 60%;
+    padding: 1rem 0 0 16rem;
+    gap: 2rem;
+}
+
+.duniya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 1rem;
+
+}
+
+.btn {
+    padding: 1rem 2rem;
+    background-color: rgb(246, 96, 96);
+    color: rgb(237, 239, 240);
+    border-radius: 10px;
+    font-size: 1rem;
+    /* text-decoration: underline, none; */
+}
+
+
+#section2 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.section5 {
+    background-color: rgb(106, 62, 97);
+    border-radius: 10rem 10rem 0 0;
+    padding: 2rem 2rem 2rem 2rem;
+    width: 11rem;
+    height: 10.5rem;
+
+}
+
+
+#section-2 {
+    height: 100vh;
+    border-radius: 3rem;
+    background-color: rgb(163, 163, 163);
+    padding: 1rem;
+
+
+
+}
+
+#navber {
+    /* border: 3px solid black; */
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: sticky;
+    top: 0;
+    background-color: rgb(125, 194, 250);
+    border-radius: 2.5rem;
+    padding: 2rem;
+}
+
+.Home {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+#section7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    gap: 14rem;
+}
+
+.rofik {
+    height: 483px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+#section10 {
+    height: 117vh;
+    background-color: blanchedalmond;
+    padding: 2rem;
+    border-radius: 4rem;
+}
+
+#div1 {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    gap: 2rem;
+    align-items: center;
+}
+
+.class10 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    border: 2px solid rgb(16, 11, 3);
+    background-color: rgb(203, 179, 184);
+    border-radius: 10rem 10rem 10rem 10rem;
+    overflow: hidden;
+
+}
+
+.CHOICE {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#footer1 {
+    background-color: rgb(1, 23, 23);
+    height: 30vh;
+    padding: 4rem;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.center {
+    color: white;
+    text-align: center;
+    width: 50%;
+    gap: 6rem;
+}
+
+.image {
+    height: 188px;
+    width: 163px;
+
+
+}
+
+.border {
+    border: 3px solid red;
+    border-radius: 10rem;
+    overflow: hidden;
+}
